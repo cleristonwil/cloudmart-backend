@@ -29,6 +29,10 @@ spec:
           value: "OPENAI_KEY"
         - name: OPENAI_ASSISTANT_ID
           value: "asst_mSpTX4k2IW3XDlTYWcD2yePK"
+        - name: AZURE_ENDPOINT
+          value: "https://cloudmart-textanalytics.cognitiveservices.azure.com/"
+        - name: AZURE_API_KEY
+          value: "AZKEYTA"
 ---
 
 apiVersion: v1
