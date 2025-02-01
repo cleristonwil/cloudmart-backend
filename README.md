@@ -1,2 +1,0 @@
-# cloudmart-backend
-Teste
